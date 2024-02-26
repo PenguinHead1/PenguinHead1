@@ -1,4 +1,5 @@
-import random
+
+
 from pyfiglet import Figlet
 
 def generate_password(length=12):
