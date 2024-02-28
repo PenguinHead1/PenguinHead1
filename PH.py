@@ -1,4 +1,4 @@
-
+import time
 
 from pyfiglet import Figlet
 
